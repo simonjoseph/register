@@ -1,0 +1,11 @@
+{
+  "description": "Portfólio pessoal de Simão José",
+  "subdomain": "simaojose",
+  "owner": {
+    "email": "simaojose1978@gmail.com"
+  },
+  "record": {
+    "CNAME": "simonjoseph.github.io",
+    "TXT": "b7ea54e9597e929013f4b3e408adcb"
+  }
+}
